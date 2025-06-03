@@ -42,13 +42,17 @@
 <br />
 
 
-![Screenshot 2025-05-24 004849](https://github.com/user-attachments/assets/1d7b2bdc-23b8-4fe0-ae82-6369d2de243c)
-
-![Screenshot 2025-05-24 004640](https://github.com/user-attachments/assets/c38eab6a-dcba-4f5f-93ef-12d305f6381a)
-
-![Screenshot 2025-05-24 005729](https://github.com/user-attachments/assets/c08ba300-276f-45cd-8a96-a27de3bdc828)
-
-![Screenshot 2025-05-24 005755](https://github.com/user-attachments/assets/34a167fb-659a-4bf0-a64a-30290fbf2e8e)
+<p align="center">
+  
+  <img src="read-me-images/Screenshot 2025-05-24 004530.png" alt="Screenshot 2025-05-24 004530" />
+  
+  <img src="read-me-images/Screenshot 2025-05-24 004640.png" alt="Screenshot 2025-05-24 004640" />
+  
+  <img src="read-me-images/Screenshot 2025-05-24 005729.png" alt="Screenshot 2025-05-24 005729" />
+  
+  <img src="read-me-images/Screenshot 2025-05-24 005755.png" alt="Screenshot 2025-05-24 005755" />
+  
+</p>
 
 
 <br />
